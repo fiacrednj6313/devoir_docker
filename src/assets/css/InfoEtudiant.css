@@ -1,0 +1,31 @@
+.info-box
+{
+    background-color: white;
+    width: 500px;
+    height: fit-content;
+    margin: 35px auto;
+    border: none;
+    box-shadow: 6px 6px rgb(33, 33, 33);
+    border-radius: 30px;
+    padding: 20px;
+
+}
+
+.info-box .info h1
+{
+    text-align: center;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    text-decoration: underline;
+}
+
+.info-box .info p
+{
+    font-size: 17px;
+}
+
+.info-box .info span
+{
+    font-size: 20px;
+    font-weight: 700;
+}
